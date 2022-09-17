@@ -1,4 +1,4 @@
-package create_pattern;
+package create_pattern.singleton;
 
 
 /**

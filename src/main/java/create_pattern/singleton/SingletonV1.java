@@ -1,4 +1,4 @@
-package create_pattern;
+package create_pattern.singleton;
 
 /**
  * 멀티스레드에 안전하지 않는 싱글톤객체 생성
