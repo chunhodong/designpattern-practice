@@ -1,0 +1,4 @@
+중재자패턴
+- 여러 객체들이 소통하는 방법을 캡슐화한 패턴
+- 여러 객체들이 서로 소통하는 법이 필요할때, 직접 참조하는게 아니라 중재자 객체를 통해서 서로 소통
+- ex: DispatcherServlet , HandlerMapping이나 HandlerAdapter가 서로를 알지못하고 DispatcherServlet을통해서 작업
